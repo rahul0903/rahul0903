@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul0903
+- 👋 Hi, I’m Rahul Kumar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Btech CSE
 - 💞️ I’m looking to collaborate on open source platform to improve my knowledge
